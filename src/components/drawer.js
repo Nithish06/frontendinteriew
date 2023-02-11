@@ -62,6 +62,7 @@ function SideDrawer() {
     const values = [...fields];
     values.push({ value: null });
     setFields(values);
+    //Coudln't able delete selected options which inturn selets the option for the above select
     // const details = schemas?.filter((item) => {
     //   return item.value !== refValue;
     // });
