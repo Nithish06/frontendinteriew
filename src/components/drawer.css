@@ -1,0 +1,45 @@
+.select {
+  width: 190px;
+  margin-bottom: 10px;
+  padding: 3px;
+}
+
+.input {
+  width: 190px;
+  padding: 3px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: gainsboro;
+}
+
+.save {
+  background-color: #2d7a7a;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 2px;
+  margin-right: 12px;
+}
+
+.cancel {
+  background-color: white;
+  color: red;
+  padding: 8px;
+  border: none;
+  border-radius: 2px;
+}
+
+.add-button {
+  background-color: #2d7a7a;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 2px;
+  margin-right: 12px;
+  margin-top: 10px;
+}
